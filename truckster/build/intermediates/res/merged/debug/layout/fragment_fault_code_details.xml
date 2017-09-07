@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2012-2016 Augumenta Ltd. All rights reserved.
+  ~
+  ~ This source code file is furnished under a limited license and may be used or
+  ~ copied only in accordance with the terms of the license. Except as permitted
+  ~ by the license, no part of this source code file may be  reproduced, stored in
+  ~ a retrieval system, or transmitted, in any form or by  any means, electronic,
+  ~ mechanical, recording, or otherwise, without the prior written permission of
+  ~ Augumenta.
+  ~
+  ~ This source code file contains proprietary information that is protected by
+  ~ copyright. Certain parts of proprietary information is patent protected. The
+  ~ content herein is furnished for informational use only, is subject to change
+  ~ without notice, and should not be construed as a commitment by Augumenta.
+  ~ Augumenta assumes no responsibility or liability for any errors or
+  ~ inaccuracies that may appear in the informational content contained herein.
+  ~ This source code file has not been thoroughly tested under all conditions.
+  ~ Augumenta, therefore, does not guarantee or imply its reliability,
+  ~ serviceability, or function.
+  ~
+  -->
+
+<com.augumenta.demo.truckster.views.PoseLayout
+	android:id="@+id/pose_layout"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:layout_marginTop="@dimen/margin_fragment_top">
+
+	<WebView
+		android:id="@+id/webview"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+        android:layout_above="@+id/back_indicator"
+		android:layout_marginBottom="@dimen/padding_fragment_vertical"
+		android:layout_marginLeft="@dimen/padding_fragment_horizontal"
+		android:layout_marginRight="@dimen/padding_fragment_horizontal"
+		android:layout_marginTop="@dimen/padding_fragment_vertical"/>
+
+    <com.augumenta.demo.truckster.views.PoseIndicator
+        android:id="@+id/back_indicator"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        app:imageFirst="@drawable/p201"
+        app:imageSecond="@drawable/p016"
+        android:text="@string/indicator_back"/>
+
+    <com.augumenta.demo.truckster.views.PoseIndicator
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        app:imageFirst="@drawable/p001"
+        app:imageSecond="@drawable/p032"
+        android:text="@string/indicator_grab"/>
+
+</com.augumenta.demo.truckster.views.PoseLayout>

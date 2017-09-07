@@ -1,0 +1,7 @@
+#Thu Sep 07 10:50:07 EDT 2017
+base.0=/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_982cc0e804a53e277eb31d10dc4ae1923f324af9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a1576eddad16891e20d0d111bd2f30885b513e85/classes.dex
+base.1=/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a1576eddad16891e20d0d111bd2f30885b513e85
+file.0=/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_982cc0e804a53e277eb31d10dc4ae1923f324af9/classes.dex

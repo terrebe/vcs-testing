@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/fragment_subtasks.xml",
+        "source": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/src/main/res/layout/fragment_subtasks.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/view_fault_code_list_item.xml",
+        "source": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/src/main/res/layout/view_fault_code_list_item.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/fragment_fault_code.xml",
+        "source": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/src/main/res/layout/fragment_fault_code.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/view_compound_button.xml",
+        "source": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/src/main/res/layout/view_compound_button.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/fragment_subtask_item.xml",
+        "source": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/src/main/res/layout/fragment_subtask_item.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/view_task_item.xml",
+        "source": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/src/main/res/layout/view_task_item.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/fragment_tasks.xml",
+        "source": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/src/main/res/layout/fragment_tasks.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/fragment_fault_code_details.xml",
+        "source": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/src/main/res/layout/fragment_fault_code_details.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/view_pose_indicator.xml",
+        "source": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/src/main/res/layout/view_pose_indicator.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/fragment_menu.xml",
+        "source": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/src/main/res/layout/fragment_menu.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/layout/abc_list_menu_item_checkbox.xml"
+    }
+]

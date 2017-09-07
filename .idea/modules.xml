@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TrucksterDemo.iml" filepath="$PROJECT_DIR$/TrucksterDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agapi/agapi.iml" filepath="$PROJECT_DIR$/agapi/agapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/truckster/truckster.iml" filepath="$PROJECT_DIR$/truckster/truckster.iml" />
+    </modules>
+  </component>
+</project>

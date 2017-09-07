@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2012-2016 Augumenta Ltd. All rights reserved.
+  ~
+  ~ This source code file is furnished under a limited license and may be used or
+  ~ copied only in accordance with the terms of the license. Except as permitted
+  ~ by the license, no part of this source code file may be  reproduced, stored in
+  ~ a retrieval system, or transmitted, in any form or by  any means, electronic,
+  ~ mechanical, recording, or otherwise, without the prior written permission of
+  ~ Augumenta.
+  ~
+  ~ This source code file contains proprietary information that is protected by
+  ~ copyright. Certain parts of proprietary information is patent protected. The
+  ~ content herein is furnished for informational use only, is subject to change
+  ~ without notice, and should not be construed as a commitment by Augumenta.
+  ~ Augumenta assumes no responsibility or liability for any errors or
+  ~ inaccuracies that may appear in the informational content contained herein.
+  ~ This source code file has not been thoroughly tested under all conditions.
+  ~ Augumenta, therefore, does not guarantee or imply its reliability,
+  ~ serviceability, or function.
+  ~
+  -->
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:layout_marginTop="@dimen/margin_fragment_small"
+                android:layout_marginBottom="@dimen/margin_fragment_small"
+                android:layout_marginLeft="@dimen/margin_fragment_top"
+                android:layout_marginRight="@dimen/margin_fragment_top"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+	<android.support.v4.view.ViewPager
+		android:id="@+id/task_pager"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+		android:layout_above="@+id/balloon_view">
+
+	</android.support.v4.view.ViewPager>
+
+	<TextView
+		android:id="@+id/title"
+		android:layout_alignParentTop="true"
+		android:layout_centerHorizontal="true"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textAppearance="@android:style/TextAppearance.Medium"/>
+
+	<com.augumenta.demo.truckster.views.TaskBalloonView
+		android:id="@+id/balloon_view"
+		android:layout_centerHorizontal="true"
+		android:layout_alignParentBottom="true"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content" />
+
+	<com.augumenta.demo.truckster.views.PoseCursorLayout
+		android:id="@+id/cursor_layout"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"/>
+
+	<com.augumenta.demo.truckster.views.PoseIndicator
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignParentBottom="true"
+		android:layout_alignParentLeft="true"
+		app:imageFirst="@drawable/p201"
+		app:imageSecond="@drawable/p016"
+		android:text="@string/indicator_back"/>
+
+	<com.augumenta.demo.truckster.views.PoseIndicator
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignParentBottom="true"
+		android:layout_alignParentRight="true"
+		app:imageFirst="@drawable/p201"
+		app:imageSecond="@drawable/p008"
+		android:text="@string/indicator_next"/>
+
+</RelativeLayout>

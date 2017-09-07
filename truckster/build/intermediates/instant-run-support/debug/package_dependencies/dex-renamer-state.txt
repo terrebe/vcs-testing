@@ -1,0 +1,22 @@
+#Thu Sep 07 10:50:06 EDT 2017
+renamed.6=classes7.dex
+renamed.5=classes2.dex
+renamed.4=classes5.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes.dex
+renamed.0=classes6.dex
+base.6=/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.1_e95650edf39dfce45b0e30900231df2e6b44fb46
+base.5=/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/transforms/dex/debug/folders/1000/10/classes_18e969faded8e9d29ce6ed3acbbe04f64ac1d4a0
+base.4=/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a734c4c684b21f3af153c8be440646fa3fc85b3a
+base.3=/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/transforms/dex/debug/folders/1000/10/classes_549afc33eac2b855ce8d888fb97086f223faf494
+base.2=/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3210c6a12f9c923d365f1628060f2ef274967df9
+base.1=/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/transforms/dex/debug/folders/1000/10/classes_120cc454ae607c8027fa28ef8eb86a1b638dfa6e
+base.0=/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.1_f7c6f23965d8b25047f57fff57d34e6d5e96513e
+file.6=/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.1_e95650edf39dfce45b0e30900231df2e6b44fb46/classes.dex
+file.5=/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/transforms/dex/debug/folders/1000/10/classes_18e969faded8e9d29ce6ed3acbbe04f64ac1d4a0/classes.dex
+file.4=/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a734c4c684b21f3af153c8be440646fa3fc85b3a/classes.dex
+file.3=/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/transforms/dex/debug/folders/1000/10/classes_549afc33eac2b855ce8d888fb97086f223faf494/classes.dex
+file.2=/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3210c6a12f9c923d365f1628060f2ef274967df9/classes.dex
+file.1=/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/transforms/dex/debug/folders/1000/10/classes_120cc454ae607c8027fa28ef8eb86a1b638dfa6e/classes.dex
+file.0=/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.1_f7c6f23965d8b25047f57fff57d34e6d5e96513e/classes.dex
