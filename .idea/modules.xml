@@ -4,7 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TrucksterDemo.iml" filepath="$PROJECT_DIR$/TrucksterDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/agapi/agapi.iml" filepath="$PROJECT_DIR$/agapi/agapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agapi/agapi.iml" filepath="$PROJECT_DIR$/agapi/agapi.iml" />
       <module fileurl="file://$PROJECT_DIR$/truckster/truckster.iml" filepath="$PROJECT_DIR$/truckster/truckster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/truckster/truckster.iml" filepath="$PROJECT_DIR$/truckster/truckster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vcs-testing.iml" filepath="$PROJECT_DIR$/vcs-testing.iml" />
     </modules>
   </component>
 </project>

@@ -1,46 +1,90 @@
 [
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
-        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/anim/abc_slide_out_bottom.xml"
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Ben\\.android\\build-cache\\1c33729dbaabeaef5e1807a67cd0845ff7ea147f\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\bryan\\.android\\build-cache\\0d51a3fca9f1287b5fbffa46ec420cd7c365f409\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
-        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/anim/abc_popup_enter.xml"
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\bryan\\.android\\build-cache\\0d51a3fca9f1287b5fbffa46ec420cd7c365f409\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/anim/indicator_fade.xml",
-        "source": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/src/main/res/anim/indicator_fade.xml"
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Ben\\.android\\build-cache\\1c33729dbaabeaef5e1807a67cd0845ff7ea147f\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
-        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/anim/abc_popup_exit.xml"
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Ben\\.android\\build-cache\\1c33729dbaabeaef5e1807a67cd0845ff7ea147f\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\bryan\\.android\\build-cache\\0d51a3fca9f1287b5fbffa46ec420cd7c365f409\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
-        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/anim/abc_fade_in.xml"
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\bryan\\.android\\build-cache\\0d51a3fca9f1287b5fbffa46ec420cd7c365f409\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
-        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/anim/abc_slide_out_top.xml"
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\anim\\indicator_fade.xml",
+        "source": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\src\\main\\res\\anim\\indicator_fade.xml"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/anim/abc_slide_in_bottom.xml"
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\bryan\\.android\\build-cache\\0d51a3fca9f1287b5fbffa46ec420cd7c365f409\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
-        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/anim/abc_fade_out.xml"
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Ben\\.android\\build-cache\\1c33729dbaabeaef5e1807a67cd0845ff7ea147f\\output\\res\\anim\\abc_popup_exit.xml"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
-        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/anim/abc_slide_in_top.xml"
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\bryan\\.android\\build-cache\\0d51a3fca9f1287b5fbffa46ec420cd7c365f409\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\bryan\\.android\\build-cache\\0d51a3fca9f1287b5fbffa46ec420cd7c365f409\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\bryan\\.android\\build-cache\\0d51a3fca9f1287b5fbffa46ec420cd7c365f409\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Ben\\.android\\build-cache\\1c33729dbaabeaef5e1807a67cd0845ff7ea147f\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Ben\\.android\\build-cache\\1c33729dbaabeaef5e1807a67cd0845ff7ea147f\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Ben\\.android\\build-cache\\1c33729dbaabeaef5e1807a67cd0845ff7ea147f\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\bryan\\.android\\build-cache\\0d51a3fca9f1287b5fbffa46ec420cd7c365f409\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\bryan\\.android\\build-cache\\0d51a3fca9f1287b5fbffa46ec420cd7c365f409\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Ben\\.android\\build-cache\\1c33729dbaabeaef5e1807a67cd0845ff7ea147f\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Ben\\.android\\build-cache\\1c33729dbaabeaef5e1807a67cd0845ff7ea147f\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\anim\\indicator_fade.xml",
+        "source": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\src\\main\\res\\anim\\indicator_fade.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Ben\\.android\\build-cache\\1c33729dbaabeaef5e1807a67cd0845ff7ea147f\\output\\res\\anim\\abc_slide_out_top.xml"
     }
 ]

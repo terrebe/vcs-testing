@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
-        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/drawable-v23/abc_control_background_material.xml"
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "C:\\Users\\Ben\\.android\\build-cache\\1c33729dbaabeaef5e1807a67cd0845ff7ea147f\\output\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "C:\\Users\\bryan\\.android\\build-cache\\0d51a3fca9f1287b5fbffa46ec420cd7c365f409\\output\\res\\drawable-v23\\abc_control_background_material.xml"
     }
 ]

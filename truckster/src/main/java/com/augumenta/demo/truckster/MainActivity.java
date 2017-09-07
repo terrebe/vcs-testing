@@ -67,7 +67,7 @@ public class MainActivity extends FragmentActivity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
-		Log.d(TAG, "onCreate");
+		Log.d(TAG, "I HAVE BEEN SUMMONED!!!");
 
 		mCameraPreview = (SurfaceView) findViewById(R.id.camera_preview);
 

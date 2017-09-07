@@ -1,218 +1,434 @@
 [
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/drawable/abc_btn_radio_material.xml"
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\bryan\\.android\\build-cache\\0d51a3fca9f1287b5fbffa46ec420cd7c365f409\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/drawable/abc_btn_borderless_material.xml"
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\pointer_spot.xml",
+        "source": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\src\\main\\res\\drawable\\pointer_spot.xml"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/p016.png",
-        "source": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/src/main/res/drawable/p016.png"
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\task_background_progress.xml",
+        "source": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\src\\main\\res\\drawable\\task_background_progress.xml"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
-        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/drawable/abc_btn_check_material.xml"
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\bryan\\.android\\build-cache\\0d51a3fca9f1287b5fbffa46ec420cd7c365f409\\output\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/drawable/abc_tab_indicator_material.xml"
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Ben\\.android\\build-cache\\1c33729dbaabeaef5e1807a67cd0845ff7ea147f\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\bryan\\.android\\build-cache\\0d51a3fca9f1287b5fbffa46ec420cd7c365f409\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/button_background.xml",
-        "source": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/src/main/res/drawable/button_background.xml"
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\button_background.xml",
+        "source": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\src\\main\\res\\drawable\\button_background.xml"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/fig_drum_brake.png",
-        "source": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/src/main/res/drawable/fig_drum_brake.png"
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Ben\\.android\\build-cache\\1c33729dbaabeaef5e1807a67cd0845ff7ea147f\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/drawable/abc_switch_thumb_material.xml"
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\button_background_pressed.xml",
+        "source": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\src\\main\\res\\drawable\\button_background_pressed.xml"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/menu_fault_codes.png",
-        "source": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/src/main/res/drawable/menu_fault_codes.png"
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Ben\\.android\\build-cache\\1c33729dbaabeaef5e1807a67cd0845ff7ea147f\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
-        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/drawable/abc_dialog_material_background_dark.xml"
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Ben\\.android\\build-cache\\1c33729dbaabeaef5e1807a67cd0845ff7ea147f\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
-        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/drawable/abc_seekbar_track_material.xml"
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_fault_codes.png",
+        "source": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\src\\main\\res\\drawable\\menu_fault_codes.png"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
-        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/drawable/abc_ratingbar_full_material.xml"
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Ben\\.android\\build-cache\\1c33729dbaabeaef5e1807a67cd0845ff7ea147f\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/pointer_spot_hover.png",
-        "source": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/src/main/res/drawable/pointer_spot_hover.png"
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\bryan\\.android\\build-cache\\0d51a3fca9f1287b5fbffa46ec420cd7c365f409\\output\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/drawable/abc_text_cursor_material.xml"
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\fig_disc_brake.png",
+        "source": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\src\\main\\res\\drawable\\fig_disc_brake.png"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/fig_drawbar.png",
-        "source": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/src/main/res/drawable/fig_drawbar.png"
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\fig_pintle.png",
+        "source": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\src\\main\\res\\drawable\\fig_pintle.png"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
-        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/drawable/abc_seekbar_thumb_material.xml"
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Ben\\.android\\build-cache\\1c33729dbaabeaef5e1807a67cd0845ff7ea147f\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/fig_towing.png",
-        "source": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/src/main/res/drawable/fig_towing.png"
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Ben\\.android\\build-cache\\1c33729dbaabeaef5e1807a67cd0845ff7ea147f\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/drawable/abc_item_background_holo_light.xml"
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Ben\\.android\\build-cache\\1c33729dbaabeaef5e1807a67cd0845ff7ea147f\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/p032.png",
-        "source": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/src/main/res/drawable/p032.png"
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\bryan\\.android\\build-cache\\0d51a3fca9f1287b5fbffa46ec420cd7c365f409\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
-        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/drawable/abc_ratingbar_indicator_material.xml"
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Ben\\.android\\build-cache\\1c33729dbaabeaef5e1807a67cd0845ff7ea147f\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/pointer_spot_touch.png",
-        "source": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/src/main/res/drawable/pointer_spot_touch.png"
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\bryan\\.android\\build-cache\\0d51a3fca9f1287b5fbffa46ec420cd7c365f409\\output\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/drawable/abc_item_background_holo_dark.xml"
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\bryan\\.android\\build-cache\\0d51a3fca9f1287b5fbffa46ec420cd7c365f409\\output\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/button_background_normal.xml",
-        "source": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/src/main/res/drawable/button_background_normal.xml"
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\bryan\\.android\\build-cache\\0d51a3fca9f1287b5fbffa46ec420cd7c365f409\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/p008.png",
-        "source": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/src/main/res/drawable/p008.png"
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\p016.png",
+        "source": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\src\\main\\res\\drawable\\p016.png"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/task_background_pending.xml",
-        "source": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/src/main/res/drawable/task_background_pending.xml"
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\fault_code_background.xml",
+        "source": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\src\\main\\res\\drawable\\fault_code_background.xml"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
-        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/drawable/abc_edit_text_material.xml"
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\fig_drawbar.png",
+        "source": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\src\\main\\res\\drawable\\fig_drawbar.png"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/drawable/abc_cab_background_top_material.xml"
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Ben\\.android\\build-cache\\1c33729dbaabeaef5e1807a67cd0845ff7ea147f\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/drawable/abc_spinner_textfield_background_material.xml"
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\fig_disc_brake.png",
+        "source": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\src\\main\\res\\drawable\\fig_disc_brake.png"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/fault_code_background.xml",
-        "source": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/src/main/res/drawable/fault_code_background.xml"
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Ben\\.android\\build-cache\\1c33729dbaabeaef5e1807a67cd0845ff7ea147f\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/drawable/abc_list_selector_holo_light.xml"
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\p201.png",
+        "source": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\src\\main\\res\\drawable\\p201.png"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/menu_about_augumenta.png",
-        "source": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/src/main/res/drawable/menu_about_augumenta.png"
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\fault_code_code_background.xml",
+        "source": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\src\\main\\res\\drawable\\fault_code_code_background.xml"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/arrow.png",
-        "source": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/src/main/res/drawable/arrow.png"
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\p032.png",
+        "source": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\src\\main\\res\\drawable\\p032.png"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/transparent.xml",
-        "source": "/Users/Ben/.android/build-cache/e4a396484f12ea2c82ce07ec0b0de4c86b8b0b19/output/res/drawable/transparent.xml"
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Ben\\.android\\build-cache\\1c33729dbaabeaef5e1807a67cd0845ff7ea147f\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/button_background_pressed.xml",
-        "source": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/src/main/res/drawable/button_background_pressed.xml"
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow.png",
+        "source": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\src\\main\\res\\drawable\\arrow.png"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/drawable/abc_list_selector_holo_dark.xml"
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_about_augumenta.png",
+        "source": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\src\\main\\res\\drawable\\menu_about_augumenta.png"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/task_background_progress.xml",
-        "source": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/src/main/res/drawable/task_background_progress.xml"
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\fig_drawbar.png",
+        "source": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\src\\main\\res\\drawable\\fig_drawbar.png"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/fault_code_code_background.xml",
-        "source": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/src/main/res/drawable/fault_code_code_background.xml"
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\fig_suspension.png",
+        "source": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\src\\main\\res\\drawable\\fig_suspension.png"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
-        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/drawable/abc_ratingbar_small_material.xml"
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\bryan\\.android\\build-cache\\0d51a3fca9f1287b5fbffa46ec420cd7c365f409\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
-        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/drawable/abc_dialog_material_background_light.xml"
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\pointer_spot_touch.png",
+        "source": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\src\\main\\res\\drawable\\pointer_spot_touch.png"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/drawable/abc_textfield_search_material.xml"
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\p008.png",
+        "source": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\src\\main\\res\\drawable\\p008.png"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\bryan\\.android\\build-cache\\0d51a3fca9f1287b5fbffa46ec420cd7c365f409\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/fallback_cursor.xml",
-        "source": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/src/main/res/drawable/fallback_cursor.xml"
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\bryan\\.android\\build-cache\\0d51a3fca9f1287b5fbffa46ec420cd7c365f409\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/p201.png",
-        "source": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/src/main/res/drawable/p201.png"
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\bryan\\.android\\build-cache\\0d51a3fca9f1287b5fbffa46ec420cd7c365f409\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/task_background_completed.xml",
-        "source": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/src/main/res/drawable/task_background_completed.xml"
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\task_background_completed.xml",
+        "source": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\src\\main\\res\\drawable\\task_background_completed.xml"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/p001.png",
-        "source": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/src/main/res/drawable/p001.png"
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Ben\\.android\\build-cache\\1c33729dbaabeaef5e1807a67cd0845ff7ea147f\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/fig_disc_brake.png",
-        "source": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/src/main/res/drawable/fig_disc_brake.png"
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\bryan\\.android\\build-cache\\0d51a3fca9f1287b5fbffa46ec420cd7c365f409\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/start_work.png",
-        "source": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/src/main/res/drawable/start_work.png"
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\fig_drum_brake.png",
+        "source": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\src\\main\\res\\drawable\\fig_drum_brake.png"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/fig_pintle.png",
-        "source": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/src/main/res/drawable/fig_pintle.png"
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\pointer_spot_hover.png",
+        "source": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\src\\main\\res\\drawable\\pointer_spot_hover.png"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
-        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/drawable/abc_btn_colored_material.xml"
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\bryan\\.android\\build-cache\\0d51a3fca9f1287b5fbffa46ec420cd7c365f409\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/drawable/abc_cab_background_internal_bg.xml"
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\p032.png",
+        "source": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\src\\main\\res\\drawable\\p032.png"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/fig_suspension.png",
-        "source": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/src/main/res/drawable/fig_suspension.png"
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Ben\\.android\\build-cache\\1c33729dbaabeaef5e1807a67cd0845ff7ea147f\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/Ben/.android/build-cache/1c33729dbaabeaef5e1807a67cd0845ff7ea147f/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\p016.png",
+        "source": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\src\\main\\res\\drawable\\p016.png"
     },
     {
-        "merged": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/build/intermediates/res/merged/debug/drawable/pointer_spot.xml",
-        "source": "/Users/Ben/Documents/ar-proj/TrucksterDemo/truckster/src/main/res/drawable/pointer_spot.xml"
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Ben\\.android\\build-cache\\1c33729dbaabeaef5e1807a67cd0845ff7ea147f\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\fig_towing.png",
+        "source": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\src\\main\\res\\drawable\\fig_towing.png"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\fig_suspension.png",
+        "source": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\src\\main\\res\\drawable\\fig_suspension.png"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Ben\\.android\\build-cache\\1c33729dbaabeaef5e1807a67cd0845ff7ea147f\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_about_augumenta.png",
+        "source": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\src\\main\\res\\drawable\\menu_about_augumenta.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\bryan\\.android\\build-cache\\0d51a3fca9f1287b5fbffa46ec420cd7c365f409\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\bryan\\.android\\build-cache\\0d51a3fca9f1287b5fbffa46ec420cd7c365f409\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\bryan\\.android\\build-cache\\0d51a3fca9f1287b5fbffa46ec420cd7c365f409\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\fig_towing.png",
+        "source": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\src\\main\\res\\drawable\\fig_towing.png"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\p201.png",
+        "source": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\src\\main\\res\\drawable\\p201.png"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\task_background_progress.xml",
+        "source": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\src\\main\\res\\drawable\\task_background_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\p001.png",
+        "source": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\src\\main\\res\\drawable\\p001.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_fault_codes.png",
+        "source": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\src\\main\\res\\drawable\\menu_fault_codes.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\fig_drum_brake.png",
+        "source": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\src\\main\\res\\drawable\\fig_drum_brake.png"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Ben\\.android\\build-cache\\1c33729dbaabeaef5e1807a67cd0845ff7ea147f\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\start_work.png",
+        "source": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\src\\main\\res\\drawable\\start_work.png"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Ben\\.android\\build-cache\\1c33729dbaabeaef5e1807a67cd0845ff7ea147f\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\bryan\\.android\\build-cache\\0d51a3fca9f1287b5fbffa46ec420cd7c365f409\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\start_work.png",
+        "source": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\src\\main\\res\\drawable\\start_work.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\bryan\\.android\\build-cache\\0d51a3fca9f1287b5fbffa46ec420cd7c365f409\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\bryan\\.android\\build-cache\\0d51a3fca9f1287b5fbffa46ec420cd7c365f409\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\task_background_pending.xml",
+        "source": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\src\\main\\res\\drawable\\task_background_pending.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\pointer_spot.xml",
+        "source": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\src\\main\\res\\drawable\\pointer_spot.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\fault_code_code_background.xml",
+        "source": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\src\\main\\res\\drawable\\fault_code_code_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\fallback_cursor.xml",
+        "source": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\src\\main\\res\\drawable\\fallback_cursor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\transparent.xml",
+        "source": "C:\\Users\\Ben\\.android\\build-cache\\e4a396484f12ea2c82ce07ec0b0de4c86b8b0b19\\output\\res\\drawable\\transparent.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\bryan\\.android\\build-cache\\0d51a3fca9f1287b5fbffa46ec420cd7c365f409\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\task_background_completed.xml",
+        "source": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\src\\main\\res\\drawable\\task_background_completed.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\fault_code_background.xml",
+        "source": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\src\\main\\res\\drawable\\fault_code_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Ben\\.android\\build-cache\\1c33729dbaabeaef5e1807a67cd0845ff7ea147f\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Ben\\.android\\build-cache\\1c33729dbaabeaef5e1807a67cd0845ff7ea147f\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Ben\\.android\\build-cache\\1c33729dbaabeaef5e1807a67cd0845ff7ea147f\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\transparent.xml",
+        "source": "C:\\Users\\bryan\\.android\\build-cache\\d8f19c7ee2b4d1ba5aaccbd81a2348b23debf868\\output\\res\\drawable\\transparent.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\p001.png",
+        "source": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\src\\main\\res\\drawable\\p001.png"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\fig_pintle.png",
+        "source": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\src\\main\\res\\drawable\\fig_pintle.png"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Ben\\.android\\build-cache\\1c33729dbaabeaef5e1807a67cd0845ff7ea147f\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Ben\\.android\\build-cache\\1c33729dbaabeaef5e1807a67cd0845ff7ea147f\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\button_background_pressed.xml",
+        "source": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\src\\main\\res\\drawable\\button_background_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\p008.png",
+        "source": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\src\\main\\res\\drawable\\p008.png"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\task_background_pending.xml",
+        "source": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\src\\main\\res\\drawable\\task_background_pending.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\button_background.xml",
+        "source": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\src\\main\\res\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\bryan\\.android\\build-cache\\0d51a3fca9f1287b5fbffa46ec420cd7c365f409\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\button_background_normal.xml",
+        "source": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\src\\main\\res\\drawable\\button_background_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Ben\\.android\\build-cache\\1c33729dbaabeaef5e1807a67cd0845ff7ea147f\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\bryan\\.android\\build-cache\\0d51a3fca9f1287b5fbffa46ec420cd7c365f409\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\bryan\\.android\\build-cache\\0d51a3fca9f1287b5fbffa46ec420cd7c365f409\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Ben\\.android\\build-cache\\1c33729dbaabeaef5e1807a67cd0845ff7ea147f\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\pointer_spot_hover.png",
+        "source": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\src\\main\\res\\drawable\\pointer_spot_hover.png"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\pointer_spot_touch.png",
+        "source": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\src\\main\\res\\drawable\\pointer_spot_touch.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\bryan\\.android\\build-cache\\0d51a3fca9f1287b5fbffa46ec420cd7c365f409\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow.png",
+        "source": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\src\\main\\res\\drawable\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\bryan\\.android\\build-cache\\0d51a3fca9f1287b5fbffa46ec420cd7c365f409\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\fallback_cursor.xml",
+        "source": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\src\\main\\res\\drawable\\fallback_cursor.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\button_background_normal.xml",
+        "source": "C:\\Users\\bryan\\AndroidStudioProjects\\vcs-testing\\truckster\\src\\main\\res\\drawable\\button_background_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Documents\\ar-proj\\TrucksterDemo\\truckster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Ben\\.android\\build-cache\\1c33729dbaabeaef5e1807a67cd0845ff7ea147f\\output\\res\\drawable\\abc_edit_text_material.xml"
     }
 ]
